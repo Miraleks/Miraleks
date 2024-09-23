@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Miraleks
+👋 Hi, I’m @Miraleks
 
 - interested in everything in the world of IT
 - practicing with Python and C#
