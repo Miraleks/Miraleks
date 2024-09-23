@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @Miraleks
 
+- interested in everything in the world of IT
+- practicing with Python and C#
+- beginner data engineer
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
